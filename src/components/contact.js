@@ -127,14 +127,16 @@ const Contact = () => {
                 LOCATION
               </h3>
               <div className="contact_details">
-                <p>
-                  <span class="pt-2 pt-md-0 fw-bold">Address:&nbsp;&nbsp;</span>
-                  Kala Group of companies 17 Times
-                  corporate park behind sidhu bhavan road
-                  Thaltej Ahmedabad
+                <a href="https://maps.app.goo.gl/eZgcZF8PmCDNLmRj6" target="_blank">
+                  <p>
+                    <span class="pt-2 pt-md-0 fw-bold">Address:&nbsp;&nbsp;</span>
+                    Kala Group of companies 17 Times
+                    corporate park behind sidhu bhavan road
+                    Thaltej Ahmedabad
 
 
-                </p>
+                  </p>
+                </a>
               </div>
 
               <div className="numbers">
@@ -153,7 +155,7 @@ const Contact = () => {
                       +91-9426001681
                     </a>
                   </div>
-                  
+
                   {/* <div className="col-lg-6 col-md-11 col-sm-12">
                    
                   </div> */}
@@ -165,7 +167,7 @@ const Contact = () => {
                   </div> */}
                 </div>
               </div>
-              <br/>
+              <br />
               <div>
                 <p>
                   <span class="pt-2 pt-md-0 fw-bold">
@@ -188,7 +190,7 @@ const Contact = () => {
                 </p>
               </div>
               <a
-                href="https://www.google.com/maps?ll=23.020312,72.519096&z=16&t=m&hl=en&gl=IN&mapclient=embed&cid=10107443934360200382"
+                href="https://maps.app.goo.gl/eZgcZF8PmCDNLmRj6"
                 target="blank"
               >
                 <button size="lg" className="btn btn-color mt-3">
