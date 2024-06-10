@@ -111,16 +111,7 @@ const Contact = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12 map">
-              <iframe
-                title="Maps"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.0941130578985!2d72.51690751542327!3d23.020316422188017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2d3e155555%3A0x8c44dab4eeb764be!2sKala%20Group!5e0!3m2!1sen!2sin!4v1660819987121!5m2!1sen!2sin"
-                width="600"
-                height="450"
-                style={{ border: 0 }}
-                allowfullscreen=""
-                loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
-              ></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.2483699426075!2d72.494282!3d23.0513542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9bd110a006b7%3A0x8c213bd2db920eee!2sTIMES%20CORPORATE%20PARK!5e0!3m2!1sen!2sin!4v1718029268870!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 my-auto">
               <h3 className="section-title pb-3 brown-color mt-4 mt-lg-0">
