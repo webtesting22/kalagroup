@@ -139,10 +139,8 @@ const Contact = () => {
 
               <div className="numbers">
                 <div className="row">
-                  <div className="col-lg-3 col-md-6 col-sm-12 pt-2 pt-md-0 fw-bold">
-                    Contact number:
-                  </div>
-                  <div className="col-lg-6 col-md-11 col-sm-12">
+                  <div className="col-lg-12 col-md-6 col-sm-12 pt-2 pt-md-0">
+                    <b>Contact&nbsp;number:</b>&nbsp;
                     <a href="tel:+91 79-269 23423" className="number">
                       079-26923423
                     </a>
@@ -151,18 +149,23 @@ const Contact = () => {
                       +91 9409560460
                     </a>
                     /
-                  </div>
-                  <div className="col-lg-2"></div>
-                  <div className="col-lg-3 col-md-4"></div>
-                  <div className="col-lg-6 col-md-11 col-sm-12">
-                    {" "}
                     <a href="tel:+91 94260 01681" className="number">
                       +91-9426001681
                     </a>
                   </div>
+                  
+                  {/* <div className="col-lg-6 col-md-11 col-sm-12">
+                   
+                  </div> */}
+                  {/* <div className="col-lg-2"></div> */}
+                  {/* <div className="col-lg-3 col-md-4"></div>
+                  <div className="col-lg-6 col-md-11 col-sm-12">
+                    {" "}
+                    
+                  </div> */}
                 </div>
               </div>
-
+              <br/>
               <div>
                 <p>
                   <span class="pt-2 pt-md-0 fw-bold">
