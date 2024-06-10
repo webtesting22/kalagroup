@@ -129,8 +129,11 @@ const Contact = () => {
               <div className="contact_details">
                 <p>
                   <span class="pt-2 pt-md-0 fw-bold">Address:&nbsp;&nbsp;</span>
-                  'B', First Floor, Kalatirth Complex Nr. Prernatirth Derasar,
-                  Jodhpur, Satellite, Ahmedabad, Gujarat, India - 380015
+                  Kala Group of companies 17 Times
+                  corporate park behind sidhu bhavan road
+                  Thaltej Ahmedabad
+
+
                 </p>
               </div>
 
